@@ -9,7 +9,7 @@ nodejs와 mongoDB를 이용해서 서버를 만들어보고 데이터베이스 �
 - Bootstrap
 - Javascript
 
-## part 1 ( ~ 21/12/08 )
+## part 1 ( ~ 21/12/09 )
 
 ■ '서버'가 뭔지 세계 최고로 쉽게 설명
 
